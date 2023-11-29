@@ -2,7 +2,7 @@
 ## Problem
 A quadratic equation is an equation in the form 
 
-The roots of a quadratic equation are values of x that cause the equation to evaluate to 0 and can be solved for using the quadratic equation: 
+The roots of a quadratic equation are values of x that cause the equation to evaluate to 0 and can be solved for using the quadratic equation: ax^2 + bx + c
 
 Depending on the values of a, b, and c there may be 0, 1, or 2 real solutions.
 
