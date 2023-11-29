@@ -1,31 +1,24 @@
 # Quadratic-Formula
 ## Problem
-A quadratic equation is an equation in the form 
+A quadratic equation is an equation in the form: ax^2 + bx + c 
 
-The roots of a quadratic equation are values of x that cause the equation to evaluate to 0 and can be solved for using the quadratic equation: ax^2 + bx + c
+The roots of a quadratic equation are values of x that cause the equation to evaluate to 0 and can be solved for using the quadratic equation.
 
 Depending on the values of a, b, and c there may be 0, 1, or 2 real solutions.
 
-Write a program called quad.c that asks the user for a, b, and c and then displays the real roots of x if there are any.
+The program called quad.c asks the user for a, b, and c and then displays the real roots of x if there are any.
 
 ## Requirements
-### Problem Specific
-Your program must have at least one other function besides main
-General
-There must be a comment at the top of your program describing what it does
-Each function in your program must have a comment
-Describing what the function does
-Describing the meaning of each parameter
-Describing what the function returns
-Print all doubles to 2 decimal points unless stated otherwise
-Restrictions
+  - Your program must have at least one other function besides main
+  - Print all doubles to 2 decimal points unless stated otherwise
+
+## Restrictions
 No global variables may be used
-Assumptions
-Input will always be valid
-Real values, values with decimal points, may be entered for a, b, and c
-The user will never enter a value of 0 for the "a" variable
-Tips
-When there are 2 solutions the + solution is printed first
+## Assumptions
+  - Input will always be valid
+  - Real values, values with decimal points, may be entered for a, b, and c
+  - The user will never enter a value of 0 for the "a" variable
+  - When there are 2 solutions the + solution is printed first
 
 # Examples
 
